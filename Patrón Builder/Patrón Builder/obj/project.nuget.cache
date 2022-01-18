@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4uL9krsIKDKF4q6xTj94+7vU34n6iOIcyoDpLWtnlWkFR1v2P0YzhmBU2FRKAWh3VGL6l9xW518jKcXT2yGl+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fabia\\source\\repos\\Patrón Builder\\Patrón Builder\\Patrón Builder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
